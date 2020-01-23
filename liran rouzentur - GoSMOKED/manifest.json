@@ -1,0 +1,15 @@
+{
+  "short_name": "GoSmoked",
+  "name": "GoSmoked",
+  "icons": [
+    {
+      "src": "images/flame.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "/index.php",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#ab2d29"
+}
